@@ -1,0 +1,9 @@
+Running precision and recall evaluation result in specific IOU threshold by running newtry.py
+
+DataDTTRY.json：Detection result randomly generate for testing precision and recall
+DataDTTRY2.json: Detection result generate by transCo2my.py(For testing the same random generate data from CoCo)
+DataDT.json:Detection Result File randomly generate by CoCo-edit/prac.py
+(while running prac.py success and get DataDT.json under CoCo-edit  copy it under evaluationcode folder and run transCo2my.py)
+imgidx.mat: GroundTruth file download from MSO dataset 
+
+
