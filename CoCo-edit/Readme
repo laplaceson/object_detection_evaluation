@@ -1,0 +1,8 @@
+Starting evaluation from running prac.py file
+instances_val2017.json: Data annotation Groundtruth from MSO dataset
+DataGT.json: Transform Groundtruth from MSO dataset to match CoCo_evaluation code
+DataDT.json: Detection Result randomly generate for testing
+ChangeName.json: Changing MSO dataset name by running changename.py
+Cocoeval.py: code from Coco Official website with some fix(to fit MSO dataset of having None of detection result or GroundTruth result)
+Another file is download from CoCo Official website PythonAPI-TRY/pycocotool
+
